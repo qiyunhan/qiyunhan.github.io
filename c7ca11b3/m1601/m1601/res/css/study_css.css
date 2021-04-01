@@ -1,0 +1,352 @@
+body{
+	font-family: 'Lato', sans-serif;
+	margin: 0px;
+	background-color: rgba(13,188,255,0.22);
+}
+/*p{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}*/
+h3{
+	color: rgba(8,8,8,0.76);
+	margin-bottom: 5px;
+	font-weight: 450;
+	font-size: 2em;
+	font-family: "Source Sans Pro", Arial, sans-serif;	
+}
+/* Nav */
+.tabs nav {
+    text-align: center;
+}
+
+.tabs nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+    float:left;height:15px;
+    margin-top: 128px;
+}
+
+.tabs nav ul li {
+    border: 2px solid #2f23c1;
+    border-bottom: none;
+    margin: 0 0.25em;
+    display: block;
+    float: left;
+    position: relative;
+    background-color:#f3f3f3;
+}
+
+.tabs nav li.tab-current {
+    border: 2px solid #136ba0;
+    box-shadow: inset 0 2px #0a4a70;;
+    border-bottom: none;
+    z-index: 100;
+    background-color:#f3f3f3;
+    -webkit-transform: perspective(.5em) rotateX(3deg);
+    width:12em;
+    height:3em;
+
+}
+
+.tabs nav li.tab-current:before,
+.tabs nav li.tab-current:after {
+    content: '';
+    position: absolute;
+    height: 1px;
+    right: 100%;
+    bottom: 0;
+    width: 1000px;
+    background: #47a3da;
+}
+
+.tabs nav li.tab-current:after {
+    right: auto;
+    left: 100%;
+    width: 4000px;
+}
+
+.tabs nav a {
+    color: #4587aa;
+    display: block;
+    font-size: 1.45em;
+    line-height: 2.5;
+    padding: 0 1.25em;
+    white-space: nowrap;
+    margin-left:1em;
+}
+
+.tabs nav a:hover {
+    color: #005385;
+    text-decoration:none;
+}
+
+.tabs nav li.tab-current a {
+    color: #005385;
+    margin-left:0;
+}
+
+/* Icons */
+.tabs nav a:before {
+    display: inline-block;
+    vertical-align: middle;
+    text-transform: none;
+    font-weight: normal;
+    font-variant: normal;
+    font-family: 'icomoon';
+    line-height: 1;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    margin: -0.25em 0.4em 0 0;
+}
+
+
+@media screen and (max-width: 52.375em) {
+    .tabs nav a span {
+        display: none;
+    }
+
+    .tabs nav a:before {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 32em) {
+    .tabs nav ul,
+    .tabs nav ul li a {
+        width: 100%;
+        padding: 0;
+    }
+
+    .tabs nav ul li {
+        width: 20%;
+        width: calc(20% + 1px);
+        margin: 0 0 0 -1px;
+    }
+
+    .tabs nav ul li:last-child {
+        border-right: none;
+    }
+}
+.icon-whut{
+    position: absolute;
+    margin-top: 20px;
+    margin-left:13.4em;
+}
+.icon-class{
+    position: absolute;
+    margin: 60px 0 30px 13.4em;
+}
+.tabs nav li.tabb{
+	margin-left: 13.4em;
+}
+@media screen and (max-width: 1400px){
+    .tabs nav li.tabb{
+        margin-left: 5em;
+    }
+    .icon-whut,.icon-class{
+        margin-left: 5em;
+    }
+}
+@media screen and (max-width: 1295px){
+    .tabs nav li.tabb{
+        margin-left: 2em;
+    }
+    .icon-whut,.icon-class{
+        margin-left: 2em;
+    }
+}
+
+
+.weather{
+    letter-spacing:0;
+    color:black;
+    padding-bottom:3px;
+    display:inline-block;
+    float:right;
+    margin-right:250px;
+    
+}
+.weather p{
+    display:inline-block;
+    font-size:15px;
+}
+@media screen and (max-width: 1100px){
+    .weather{
+        display:none;
+    }
+}
+
+.weather:hover >.weathers{
+    display:block;
+    z-index:9999;
+}
+.null:hover +.weathers{
+    display:none;
+
+}
+.weathers{
+    height:150px;
+    width:250px;
+    position:absolute;
+    left:60%;
+    top:3%;
+
+    background-color: white;
+    border-radius:10px;
+    display:none;
+    opacity:0.7;
+}
+.weathers h3{
+    margin-top:10px;
+    margin-left:10px;
+    margin-bottom:3px;
+}
+.weathers hr{
+      margin-top:0;
+      margin-bottom:0;
+}
+.weathers img{
+    width:20px;
+    height:20px;
+    margin:8px;
+}
+.weathers p{
+    margin-left:10px;
+    font-size:15px;
+
+}
+.nu a{
+    color: black;
+    text-decoration: none;
+}
+.nu a:hover{
+    text-decoration: none;
+    color: blue;
+}
+/*主体部分*/
+@media(min-width: 768px){
+	.content {
+    width: 750px;
+	}
+}
+
+@media (min-width: 992px){
+	.content {
+    width: 970px;
+	}
+}
+
+@media(min-width: 1200px){
+	.content {
+    width: 1170px;
+	}
+}
+.content
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 30px;
+    background-color: #f3f3f3;
+}
+/*分隔线*/
+.line{
+	font-weight: bold;
+	letter-spacing: -1px;
+	color: #4d99db;
+}
+
+/*每日练*/
+.work {
+	margin-top: 10px;
+}
+.work div{
+	float: left;
+	margin:5px 0;
+}
+.work div img{
+	width: 50px;
+	height: 50px;
+	float:left;
+}
+.work p {
+    word-wrap: break-word;
+    display: inline-block;
+    width: 8em;
+}
+
+/*天下事*/
+.news p{
+ 	overflow: hidden;
+	text-overflow: ellipsis
+}
+.news1{
+	padding-left: 0;
+}
+.news1 img{
+	width: 100%;
+	height: 291px;
+}
+.news2 img{
+	width: 100%;
+	height: 90px;
+}
+.news3 img{
+	width: 100%;
+	height: 90px;
+}
+.news1 p{
+
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	text-indent: 2em;
+}
+.news2 p{
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	text-indent: 2em;
+}
+.news3 p{
+
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	text-indent: 2em;
+}
+/*博客*/
+.blog1,.blog2,.blog3,.blog4{
+	font-size: 16px;
+}
+.blog div img{
+	width: 95px;
+	height: 80px;
+}
+
+.blog2{
+	margin-top:15px;
+}
+.blog3{
+	margin-top: 15px;
+}
+
+
+.p3{
+	margin-top: 15px;
+}
+.blog1 img{
+	padding-top: 10px;
+}
+.photo{
+	float: left;
+	width: 15%;
+	display: inline-block;
+}
+
+/*课外学*/
+.stu_thing {
+	margin-top: 10px;
+}
+.stu_thing img{
+	width: 85px;
+	height: 85px;
+}
