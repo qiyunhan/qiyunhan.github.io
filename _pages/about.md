@@ -27,12 +27,12 @@ Education Experience
 Publications
 ======
 Journal
-==========
+----------
 * **Yunhan Qi**, Zheng Yao and Mingquan Lu. General Design Method for Two-dimensional Multi-correlator Anti-multipath Tracking Loop for BOC Signals. ***IEEE Transcations on Aerospace and Electronic Systems***, **2022**.
 * **Yunhan Qi**, Zheng Yao and Mingquan Lu. Robust Unambiguous Ranging Technique for BDS-3 B1 Wideband Composite Signals. ***GPS Solutions***, **2022**.
 * **Yunhan Qi**, Zheng Yao and Mingquan Lu. General design methodology of code multi‐correlator discriminator for GNSS multipath mitigation. ***IET Radar Sonar Navig***, **2021**.
 
 Conference
-==========
+----------
 * **Yunhan Qi**, Zheng Yao and Mingquan Lu. Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations. ***ION GNSS+***, **2023**.
 * Tong Xia, **Yunhan Qi**, Jie Feng and etc. AttnMove: History Enhanced Trajectory Recovery via Attentive Neural Network. ***In Proceedings of the AAAI Conference on Artificial Intelligence***, **2021**.
