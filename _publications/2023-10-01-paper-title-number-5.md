@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
+title: "Accelerated SF-PPP Convergence of BDS-3 B1 Band by Widieband Observations"
+collection: Accepted
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'this paper introduces the B1 wideband signal observations into B1 SF-PPP for the first time. By establishing B1 SF-PPP model with three types of B1 wideband signal observations, real data experiments successfully demonstrate that the B1 wideband signal observations not only have better thermal noise and anti-multipath performances, but also can further accelerate B1 SF-PPP convergence, thus providing a faster SF-PPP solution for BDS-3 B1 band.'
 date: 2023-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 
+paperurl: 
+citation: 
 ---
