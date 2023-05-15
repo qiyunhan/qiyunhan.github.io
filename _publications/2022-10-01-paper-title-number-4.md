@@ -6,5 +6,4 @@ excerpt: 'This paper proposes a general design method for two-dimensional multi-
 date: 2022-10-01
 venue: 'IEEE Transcations on Aerospace and Electronic Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9830996/'
-paperurl: 
 ---
