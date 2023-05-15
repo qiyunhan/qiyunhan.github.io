@@ -13,18 +13,19 @@ I am currently a Ph.D student at [the Department of Electronic Engineering](http
 
 NEWs
 ======
-2020.9: I am working torwards the Ph.D. degree with best efforts.
 
-2020.6: I receive the B.E. degree from the Electronic Engineering Department of Tsinghua University.
+**2020.9:** I am working torwards the Ph.D. degree with best efforts.
 
-2019.9: I join the GNSS Lab, Tsinghua University. The research mainly focused on Composite wideband navigation signal processing based on Software Defined Radio.
+**2020.6:** I receive the B.E. degree from the Electronic Engineering Department of Tsinghua University.
 
-2019.9: I sucessfully received the offer of Ph.D students from Tsinghua.
+**2019.9:** I join the GNSS Lab, Tsinghua University. The research mainly focused on Composite wideband navigation signal processing based on Software Defined Radio.
+
+**2019.9:** I sucessfully received the offer of Ph.D students from Tsinghua.
 
 Education Experience
 ======
-Ph.D student at EE, Tsinghua University, Beijing, China, Sep 2020 - now
+**[1]** Ph.D student at EE, Tsinghua University, Beijing, China, Sep 2020 - now
 
-Undergraduate at EE, Tsinghua University, Beijing, China, Sep 2016 - July 2020
+**[2]** Undergraduate at EE, Tsinghua University, Beijing, China, Sep 2016 - July 2020
 
 
