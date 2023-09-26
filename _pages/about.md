@@ -12,7 +12,7 @@ I am currently a Ph.D student at [the Department of Electronic Engineering](http
 
 
 NEWs
-========
+======
 * **2023.9:** I give a presentatin about "Accelerated SF-PPP Convergence of BDS-3 B1 Band by Wideband Signal Observations" at ION GNSS+ 2023 and receive the Best Presentation Award.
 * **2020.9:** I am working torwards the Ph.D. degree with best efforts.
 * **2020.6:** I receive the B.E. degree from the Electronic Engineering Department of Tsinghua University.
