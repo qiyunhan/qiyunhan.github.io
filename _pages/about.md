@@ -26,13 +26,12 @@ Education Experience
 
 Publications
 ======
-* **Yunhan Qi**, Zheng Yao and Mingquan Lu. Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations. *ION GNSS+, 2023*.
-* **Yunhan Qi**, Zheng Yao and Mingquan Lu. Carrier Assisted Robust Unambiguous Positioning Technique for Subcarrier Modulated Signals in GNSS. *IEEE Transcations on Vehicular Technique, 2023*.
-* **Yunhan Qi**, Zheng Yao and Mingquan Lu. General Design Method for Two-dimensional Multi-correlator Anti-multipath Tracking Loop for BOC Signals. *IEEE Transcations on Aerospace and Electronic Systems, 2022*.
-* **Yunhan Qi**, Zheng Yao, Yang Gao and Mingquan Lu. Robust Unambiguous Ranging Technique for BDS-3 B1 Wideband Composite Signals. *GPS Solutions, 2022*.
-* **Yunhan Qi**, Zheng Yao and Mingquan Lu. General design methodology of code multi‐correlator discriminator for GNSS multipath mitigation. *IET Radar Sonar Navig, 2021*.
-
+* **Yunhan Qi**, Zheng Yao and Mingquan Lu. **Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations.** *ION GNSS+, 2023*.
+* **Yunhan Qi**, Zheng Yao and Mingquan Lu. **Carrier Assisted Robust Unambiguous Positioning Technique for Subcarrier Modulated Signals in GNSS.** *IEEE Transcations on Vehicular Technique, 2023*.
+* **Yunhan Qi**, Zheng Yao and Mingquan Lu. **General Design Method for Two-dimensional Multi-correlator Anti-multipath Tracking Loop for BOC Signals.** *IEEE Transcations on Aerospace and Electronic Systems, 2022*.
+* **Yunhan Qi**, Zheng Yao, Yang Gao and Mingquan Lu. **Robust Unambiguous Ranging Technique for BDS-3 B1 Wideband Composite Signals.** *GPS Solutions, 2022*.
+* **Yunhan Qi**, Zheng Yao and Mingquan Lu. **General design methodology of code multi‐correlator discriminator for GNSS multipath mitigation.** *IET Radar Sonar Navig, 2021*.
 
 **Others**
-
-* Tong Xia, **Yunhan Qi**, Jie Feng and etc. AttnMove: History Enhanced Trajectory Recovery via Attentive Neural Network. *In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*.
+* Tong Xia, Yong Li, **Yunhan Qi** and et al. **History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network.** *ACM Transactions on Knowledge Discovery from Data, 2023*.
+* Tong Xia, **Yunhan Qi**, Jie Feng and etc. **AttnMove: History Enhanced Trajectory Recovery via Attentive Neural Network.** *In Proceedings of the AAAI Conference on Artificial Intelligence, 2021*.
