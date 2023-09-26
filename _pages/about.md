@@ -22,6 +22,7 @@ NEWs
 Education Experience
 ======
 * **2020.9 - now:** Ph.D student at EE, Tsinghua University, Beijing, China.
+* **2017.9 - 2020.8:** Undergraduate at SEM (Dual Degree), Tsinghua University, Beijing, China.
 * **2016.9 - 2020.8:** Undergraduate at EE, Tsinghua University, Beijing, China.
 
 Publications
