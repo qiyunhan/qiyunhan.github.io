@@ -50,3 +50,21 @@ Publications
 * [AttnMove: History Enhanced Trajectory Recovery via Attentive Neural Network.](https://ojs.aaai.org/index.php/AAAI/article/view/16577)<br />
   Tong Xia, **Yunhan Qi**, Jie Feng and etc.<br />
   *In Proceedings of the AAAI Conference on Artificial Intelligence*, 2021.
+
+Awards
+====== 
+* Best presentation award from ION GNSS+, 2023
+* First-class Comprehensive Merit Scholarship of Tsinghua University, 2022
+* Outstanding student cadres of Tsinghua University, 2019
+* Social Work Merit Scholarship of Tsinghua University, 2018, 2019
+* Social Practice Merit Scholarship of Tsinghua University, 2017
+* Academic Merit Scholarship of Tsinghua University, 2017
+* Sports Merit Scholarship of Tsinghua University, 2017
+* Comprehensive Merit Scholarship of Tsinghua University, 2017
+
+
+
+
+
+
+
