@@ -27,7 +27,7 @@ Education Experience
 
 Publications
 ======
-* [Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations.]()<br />
+* [Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations.](https://www.ion.org/publications/abstract.cfm?articleID=19193)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
   *ION GNSS+*, 2023
 * [Carrier Assisted Robust Unambiguous Positioning Technique for Subcarrier Modulated Signals in GNSS.](https://ieeexplore.ieee.org/abstract/document/10143250)<br />
@@ -53,6 +53,8 @@ Publications
 
 Awards
 ====== 
+* First-class Outstanding Teaching Assistant Award of Department of Electronic Engineering, Tsinghua University, 2023
+* Second-class Comprehensive Merit Scholarship of Tsinghua University, 2023
 * Best presentation award from ION GNSS+, 2023
 * First-class Comprehensive Merit Scholarship of Tsinghua University, 2022
 * Outstanding student cadres of Tsinghua University, 2019
