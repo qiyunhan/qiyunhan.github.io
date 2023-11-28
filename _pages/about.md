@@ -27,21 +27,24 @@ Education Experience
 
 Publications
 ======
+* [Dual-assisted High-precision Tracking Technique for Wideband Multiplexed Signal in New Generation GNSS.]()<br />
+  **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
+  *Satellite Navigation*, 2023, Accepted.
 * [Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations.](https://www.ion.org/publications/abstract.cfm?articleID=19193)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *ION GNSS+*, 2023
+  *ION GNSS+*, 2023, Published
 * [Carrier Assisted Robust Unambiguous Positioning Technique for Subcarrier Modulated Signals in GNSS.](https://ieeexplore.ieee.org/abstract/document/10143250)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *IEEE Transcations on Vehicular Technique*, 2023.
+  *IEEE Transcations on Vehicular Technique*, 2023, Published.
 * [General Design Method for Two-dimensional Multi-correlator Anti-multipath Tracking Loop for BOC Signals.](https://ieeexplore.ieee.org/abstract/document/9830996)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *IEEE Transcations on Aerospace and Electronic Systems*, 2022.
+  *IEEE Transcations on Aerospace and Electronic Systems*, 2022, Published.
 * [Robust Unambiguous Ranging Technique for BDS-3 B1 Wideband Composite Signals.](https://link.springer.com/article/10.1007/s10291-022-01296-2)<br />
   **Yunhan Qi**, Zheng Yao, Yang Gao and Mingquan Lu.<br />
-  *GPS Solutions*, 2022.
+  *GPS Solutions*, 2022, Published.
 * [General design methodology of code multi‐correlator discriminator for GNSS multipath mitigation.](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rsn2.12088)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *IET Radar Sonar Navig*, 2021.
+  *IET Radar Sonar Navig*, 2021, Published.
 
 **Others**
 * [History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network.](https://dl.acm.org/doi/abs/10.1145/3615660)<br />
