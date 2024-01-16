@@ -27,6 +27,9 @@ Education Experience
 
 Publications
 ======
+* [Low-complexity Tracking Technique for BDS-3 Wideband Multiplexed Signals.](https://www.ion.org/pnt/abstracts.cfm?paperID=13168)<br />
+  **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
+  *ION Pacific PNT*, 2024, Accepted.
 * [Dual-assisted High-precision Tracking Technique for Wideband Multiplexed Signal in New Generation GNSS.]()<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
   *Satellite Navigation*, 2023, Accepted.
