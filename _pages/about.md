@@ -13,11 +13,13 @@ I am currently a Ph.D student at the Department of Electronic Engineering in Tsi
 
 NEWs
 ======
-* **2023.9:** I give a presentatin about "Accelerated SF-PPP Convergence of BDS-3 B1 Band by Wideband Signal Observations" at ION GNSS+ 2023 and receive the Best Presentation Award.
-* **2020.9:** I am working torwards the Ph.D. degree with best efforts.
-* **2020.6:** I receive the B.E. degree from the Electronic Engineering Department of Tsinghua University.
-* **2019.9:** I join the PNT Research Center, Tsinghua University. The research mainly focused on Composite wideband navigation signal processing based on Software Defined Radio.
-* **2019.9:** I sucessfully received the offer of Ph.D students from Tsinghua.
+* **2024.10:** I am awarded a National Scholarship for Ph.D student in my final year of my Ph.D.
+* **2024.04:** I give a presentatin about "Low-complexity Tracking Technique for BDs-3 Wideband Multiplexed Signals" at ION Pacific PNT 2024, Hawaii.
+* **2023.09:** I give a presentatin about "Accelerated SF-PPP Convergence of BDS-3 B1 Band by Wideband Signal Observations" at ION GNSS+ 2023 and receive the Best Presentation Award.
+* **2020.09:** I am working torwards the Ph.D. degree with best efforts.
+* **2020.06:** I receive the B.E. degree from the Electronic Engineering Department of Tsinghua University.
+* **2019.09:** I join the PNT Research Center, Tsinghua University. The research mainly focused on Composite wideband navigation signal processing based on Software Defined Radio.
+* **2019.09:** I sucessfully received the offer of Ph.D students from Tsinghua.
 
 Education Experience
 ======
@@ -27,15 +29,27 @@ Education Experience
 
 Publications
 ======
+* [Decoupled Two-Dimensional Unambiguous Tracking for BOC signals in GNSS.]()<br />
+  **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
+  *GPS Solutions*, 2024, Under Review.
+* [Multi-stage Segmental-integrate Based Low-complexity Tracking Method for Wideband Multiplexed Signals in New Generation GNSS.]()<br />
+  **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
+  *GPS Solutions*, 2024, Under Review.
+* [Subcarrier Modulated Navigation Signal Processing in GNSS: a Review.](https://satellite-navigation.springeropen.com/articles/10.1186/s43020-024-00142-9)<br />
+  Zheng Yao, **Yunhan Qi**, and Mingquan Lu.<br />
+  *Satellite Navigation*, 2024, Published.
 * [Low-complexity Tracking Technique for BDS-3 Wideband Multiplexed Signals.](https://www.ion.org/pnt/abstracts.cfm?paperID=13168)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *ION Pacific PNT*, 2024, Accepted.
-* [Dual-assisted High-precision Tracking Technique for Wideband Multiplexed Signal in New Generation GNSS.]()<br />
+  *ION Pacific PNT*, 2024, Published.
+* [Preliminary Assessment of Dual-Frequency BDS measurement on smartphones.](https://www.ion.org/publications/abstract.cfm?articleID=19651)<br />
+  Weixiang Chen, Tengfei Wang, **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
+  *ION Pacific PNT*, 2024, Published.
+* [Dual-assisted High-precision Tracking Technique for Wideband Multiplexed Signal in New Generation GNSS.](https://satellite-navigation.springeropen.com/articles/10.1186/s43020-023-00125-2)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *Satellite Navigation*, 2023, Accepted.
+  *Satellite Navigation*, 2023, Published.
 * [Accelerated SF-PPP Convergence of BDS-3 B1 Band by wideband Observations.](https://www.ion.org/publications/abstract.cfm?articleID=19193)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
-  *ION GNSS+*, 2023, Published
+  *ION GNSS+*, 2023, Published.
 * [Carrier Assisted Robust Unambiguous Positioning Technique for Subcarrier Modulated Signals in GNSS.](https://ieeexplore.ieee.org/abstract/document/10143250)<br />
   **Yunhan Qi**, Zheng Yao and Mingquan Lu.<br />
   *IEEE Transcations on Vehicular Technique*, 2023, Published.
@@ -59,10 +73,14 @@ Publications
 
 Awards
 ====== 
-* First-class Outstanding Teaching Assistant Award of Department of Electronic Engineering, Tsinghua University, 2023
-* Second-class Comprehensive Merit Scholarship of Tsinghua University, 2023
+* Outstanding Teaching Assistant Award (Top two) of Department of Electronic Engineering, Tsinghua University, 2024
+* National Award for Ph.D student, China, 2024
+* Academic Excellence Award (Second-class) of Department of Electronic Engineering, Tsinghua University, 2024
+* Outstanding Teaching Assistant Award of Tsinghua University, 2023
+* Outstanding Teaching Assistant Award (First-class) of Department of Electronic Engineering, Tsinghua University, 2023
+* Comprehensive Merit Scholarship (Second-class) of Tsinghua University, 2023
 * Best presentation award from ION GNSS+, 2023
-* First-class Comprehensive Merit Scholarship of Tsinghua University, 2022
+* Comprehensive Merit Scholarship (First-class) of Tsinghua University, 2022
 * Outstanding student cadres of Tsinghua University, 2019
 * Social Work Merit Scholarship of Tsinghua University, 2018, 2019
 * Social Practice Merit Scholarship of Tsinghua University, 2017
